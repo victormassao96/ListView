@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00e64d</color>
+    <color name="colorPrimaryDark">#00b33c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorName">#00CC7A</color>
+    <color name="colorEmail">#00a3cc</color>
+    <color name="colorMobile">#29a329</color>
+    <color name="colorAddress">#cc0066</color>
+    <color name="colorGender">#cc0000</color>
+</resources>
